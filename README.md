@@ -8,15 +8,15 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Omarchy](https://img.shields.io/badge/-Omarchy-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Start Here
 
-- **[awesome-rails](https://github.com/dpaluy/awesome-rails)** (108 stars) - curated list of Rails resources
-- **[rubric_llm](https://github.com/dpaluy/rubric_llm)** (29 stars) - lightweight LLM evaluation framework for Ruby
-- **[railstart](https://github.com/dpaluy/railstart)** (17 stars) - interactive CLI wizard for Rails app generation
-- **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** (9 stars) - detect AI-writing patterns against configurable style rules
-- **[rails-ai-rules](https://github.com/dpaluy/rails-ai-rules)** (7 stars) - AI coding rules for Rails projects
+- **[rubric_llm](https://github.com/dpaluy/rubric_llm)** lightweight LLM evaluation framework for Ruby
+- **[railstart](https://github.com/dpaluy/railstart)** - interactive CLI wizard for Rails app generation
+- **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - detect AI-writing patterns against configurable style rules
+- **[rails-ai-rules](https://github.com/dpaluy/rails-ai-rules)** - AI coding rules for Rails projects
 
 ## Rails & Ruby
 
