@@ -1,6 +1,6 @@
 # Hi, I'm David Paluy
 
-Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
+CTO and Builder at **Majestic Labs**. Rust, Ruby, Python, and AI agent tooling.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -40,7 +40,6 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - evaluates AI-generated text against style rules, produces deterministic Markdown/JSON audit reports
 - **[majestic-abilities](https://github.com/majesticlabs-dev/majestic-abilities)** - portable agent skills for Claude Code, Codex, Cursor, and Pi
 - **[claude-advisor](https://github.com/majesticlabs-dev/claude-advisor)** - advisor for Claude Code
-- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
 
 ## Agent Tooling & Automation
 
@@ -65,10 +64,14 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[pi-minimax_image](https://github.com/majesticlabs-dev/pi-minimax_image)** - MiniMax image generation for the Pi coding agent
 - **[pi-fusion](https://github.com/majesticlabs-dev/pi-fusion)** - Pi extension
 
+## CEO Operating System
+
+- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
+- **[hermes-chief-of-staff](https://github.com/majesticlabs-dev/hermes-chief-of-staff)** - chief of staff agent
+
 ## Hermes Agent
 
 - **[hermes-guide](https://github.com/majesticlabs-dev/hermes-guide)** - Hermes agent guide
-- **[hermes-chief-of-staff](https://github.com/majesticlabs-dev/hermes-chief-of-staff)** - chief of staff agent
 - **[hermes-trajectory-quality-routing](https://github.com/majesticlabs-dev/hermes-trajectory-quality-routing)** - local deterministic trajectory-quality routing plugin for Hermes Agent
 - **[hermes-profile-gallery](https://github.com/majesticlabs-dev/hermes-profile-gallery)** - Hermes profile gallery
 
