@@ -17,26 +17,15 @@ CTO and Builder at **Majestic Labs**. Rust, Ruby, Python, and AI agent tooling.
 - **[railstart](https://github.com/dpaluy/railstart)** - interactive CLI wizard for Rails app generation
 - **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - detect AI-writing patterns against configurable style rules
 
-## Rails & Ruby
+## AI Operating System
 
-- **[railstart](https://github.com/dpaluy/railstart)** - interactive CLI wizard for Rails app generation with customizable config
-- **[awesome-rails](https://github.com/dpaluy/awesome-rails)** - curated list of amazingly awesome Rails resources
-- **[debit_credit-ledger](https://github.com/dpaluy/debit_credit-ledger)** - double entry accounting for Rails
-- **[number_flow](https://github.com/dpaluy/number_flow)** - Rails helper + Stimulus digit flow transitions for integers
-- **[gherkin_system](https://github.com/dpaluy/gherkin_system)** - turns Gherkin scenarios into Minitest system test methods
-- **[israeli](https://github.com/dpaluy/israeli)** - validation utilities for Israeli identifiers (ID, phone, postal code, bank account)
-- **[intacct](https://github.com/dpaluy/intacct)** - Sage Intacct API wrapper
-- **[etherscan](https://github.com/dpaluy/etherscan)** - Ruby gem for the Etherscan API
-- **[leadsquared](https://github.com/dpaluy/leadsquared)** - Ruby wrapper for the LeadSquared API
-- **[bai2_ruby](https://github.com/dpaluy/bai2_ruby)** - BAI2 bank statement format wrapper for Ruby
-- **[fizzy-cli](https://github.com/dpaluy/fizzy-cli)** - command-line client for Fizzy project management
+- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
+- **[hermes-chief-of-staff](https://github.com/majesticlabs-dev/hermes-chief-of-staff)** - chief of staff agent
 
 ## AI, LLM & Agents
 
 - **[rubric_llm](https://github.com/dpaluy/rubric_llm)** - lightweight LLM evaluation framework for Ruby
-- **[langextract](https://github.com/dpaluy/langextract)** - Ruby port of LangExtract for source-grounded structured extraction
 - **[reducto_ai](https://github.com/dpaluy/reducto_ai)** - ReductoAI Ruby wrapper
-- **[privacy-filter-server](https://github.com/dpaluy/privacy-filter-server)** - loopback HTTP service running the openai/privacy-filter model
 - **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - evaluates AI-generated text against style rules, produces deterministic Markdown/JSON audit reports
 - **[majestic-abilities](https://github.com/majesticlabs-dev/majestic-abilities)** - portable agent skills for Claude Code, Codex, Cursor, and Pi
 - **[claude-advisor](https://github.com/majesticlabs-dev/claude-advisor)** - advisor for Claude Code
@@ -64,14 +53,23 @@ CTO and Builder at **Majestic Labs**. Rust, Ruby, Python, and AI agent tooling.
 - **[pi-minimax_image](https://github.com/majesticlabs-dev/pi-minimax_image)** - MiniMax image generation for the Pi coding agent
 - **[pi-fusion](https://github.com/majesticlabs-dev/pi-fusion)** - Pi extension
 
-## CEO Operating System
-
-- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
-- **[hermes-chief-of-staff](https://github.com/majesticlabs-dev/hermes-chief-of-staff)** - chief of staff agent
-
 ## Hermes Agent
 
 - **[hermes-guide](https://github.com/majesticlabs-dev/hermes-guide)** - Hermes agent guide
 - **[hermes-trajectory-quality-routing](https://github.com/majesticlabs-dev/hermes-trajectory-quality-routing)** - local deterministic trajectory-quality routing plugin for Hermes Agent
 - **[hermes-profile-gallery](https://github.com/majesticlabs-dev/hermes-profile-gallery)** - Hermes profile gallery
+
+## Rails & Ruby
+
+- **[railstart](https://github.com/dpaluy/railstart)** - interactive CLI wizard for Rails app generation with customizable config
+- **[awesome-rails](https://github.com/dpaluy/awesome-rails)** - curated list of amazingly awesome Rails resources
+- **[debit_credit-ledger](https://github.com/dpaluy/debit_credit-ledger)** - double entry accounting for Rails
+- **[number_flow](https://github.com/dpaluy/number_flow)** - Rails helper + Stimulus digit flow transitions for integers
+- **[gherkin_system](https://github.com/dpaluy/gherkin_system)** - turns Gherkin scenarios into Minitest system test methods
+- **[israeli](https://github.com/dpaluy/israeli)** - validation utilities for Israeli identifiers (ID, phone, postal code, bank account)
+- **[intacct](https://github.com/dpaluy/intacct)** - Sage Intacct API wrapper
+- **[etherscan](https://github.com/dpaluy/etherscan)** - Ruby gem for the Etherscan API
+- **[leadsquared](https://github.com/dpaluy/leadsquared)** - Ruby wrapper for the LeadSquared API
+- **[bai2_ruby](https://github.com/dpaluy/bai2_ruby)** - BAI2 bank statement format wrapper for Ruby
+- **[fizzy-cli](https://github.com/dpaluy/fizzy-cli)** - command-line client for Fizzy project management
 
