@@ -50,6 +50,9 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[clawdhub](https://github.com/dpaluy/clawdhub)** - ClawdBot skills
 - **[google-drive-pdf-exporter](https://github.com/dpaluy/google-drive-pdf-exporter)** - export visible images to PDF from Google Drive
 - **[dotfiles](https://github.com/dpaluy/dotfiles)** - dotfiles for Mac and Linux
+
+## Omarchy
+
 - **[omarchy-lookout](https://github.com/dpaluy/omarchy-lookout)** - LookOut: break reminder plugin for the Omarchy shell
 
 ## Pi Coding Agent Extensions
