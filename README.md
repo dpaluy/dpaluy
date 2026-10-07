@@ -13,10 +13,9 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 
 ## Start Here
 
-- **[rubric_llm](https://github.com/dpaluy/rubric_llm)** lightweight LLM evaluation framework for Ruby
+- **[rubric_llm](https://github.com/dpaluy/rubric_llm)** - lightweight LLM evaluation framework for Ruby
 - **[railstart](https://github.com/dpaluy/railstart)** - interactive CLI wizard for Rails app generation
 - **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - detect AI-writing patterns against configurable style rules
-- **[rails-ai-rules](https://github.com/dpaluy/rails-ai-rules)** - AI coding rules for Rails projects
 
 ## Rails & Ruby
 
@@ -36,12 +35,12 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 
 - **[rubric_llm](https://github.com/dpaluy/rubric_llm)** - lightweight LLM evaluation framework for Ruby
 - **[langextract](https://github.com/dpaluy/langextract)** - Ruby port of LangExtract for source-grounded structured extraction
-- **[rlm-rb](https://github.com/dpaluy/rlm-rb)** - Ruby/Rails-native runtime for typed, sandboxed, auditable AI jobs
-- **[rails-ai-rules](https://github.com/dpaluy/rails-ai-rules)** - AI coding rules for Rails projects
-- **[acp_ruby](https://github.com/dpaluy/acp_ruby)** - Agent Client Protocol for Ruby
 - **[reducto_ai](https://github.com/dpaluy/reducto_ai)** - ReductoAI Ruby wrapper
-- **[chat_gpt](https://github.com/dpaluy/chat_gpt)** - ChatGPT client for Ruby
 - **[privacy-filter-server](https://github.com/dpaluy/privacy-filter-server)** - loopback HTTP service running the openai/privacy-filter model
+- **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - evaluates AI-generated text against style rules, produces deterministic Markdown/JSON audit reports
+- **[majestic-abilities](https://github.com/majesticlabs-dev/majestic-abilities)** - portable agent skills for Claude Code, Codex, Cursor, and Pi
+- **[claude-advisor](https://github.com/majesticlabs-dev/claude-advisor)** - advisor for Claude Code
+- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
 
 ## Agent Tooling & Automation
 
@@ -50,6 +49,9 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[clawdhub](https://github.com/dpaluy/clawdhub)** - ClawdBot skills
 - **[google-drive-pdf-exporter](https://github.com/dpaluy/google-drive-pdf-exporter)** - export visible images to PDF from Google Drive
 - **[dotfiles](https://github.com/dpaluy/dotfiles)** - dotfiles for Mac and Linux
+- **[local-voice](https://github.com/majesticlabs-dev/local-voice)** - local text-to-speech for macOS with Chrome extension
+- **[emdash-templates](https://github.com/majesticlabs-dev/emdash-templates)** - community-maintained EmDash templates
+- **[static-site-builder](https://github.com/majesticlabs-dev/static-site-builder)** - static site built with Astro, Decap CMS, and Cloudflare Pages
 
 ## Omarchy
 
@@ -63,18 +65,10 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[pi-minimax_image](https://github.com/majesticlabs-dev/pi-minimax_image)** - MiniMax image generation for the Pi coding agent
 - **[pi-fusion](https://github.com/majesticlabs-dev/pi-fusion)** - Pi extension
 
-## Majestic Labs
+## Hermes Agent
 
-Public projects from **[majesticlabs-dev](https://github.com/majesticlabs-dev)**:
-
-- **[writing-eval](https://github.com/majesticlabs-dev/writing-eval)** - evaluates AI-generated text against style rules, produces deterministic Markdown/JSON audit reports
 - **[hermes-guide](https://github.com/majesticlabs-dev/hermes-guide)** - Hermes agent guide
 - **[hermes-chief-of-staff](https://github.com/majesticlabs-dev/hermes-chief-of-staff)** - chief of staff agent
 - **[hermes-trajectory-quality-routing](https://github.com/majesticlabs-dev/hermes-trajectory-quality-routing)** - local deterministic trajectory-quality routing plugin for Hermes Agent
 - **[hermes-profile-gallery](https://github.com/majesticlabs-dev/hermes-profile-gallery)** - Hermes profile gallery
-- **[local-voice](https://github.com/majesticlabs-dev/local-voice)** - local text-to-speech for macOS with Chrome extension
-- **[majestic-abilities](https://github.com/majesticlabs-dev/majestic-abilities)** - portable agent skills for Claude Code, Codex, Cursor, and Pi
-- **[claude-advisor](https://github.com/majesticlabs-dev/claude-advisor)** - advisor for Claude Code
-- **[emdash-templates](https://github.com/majesticlabs-dev/emdash-templates)** - community-maintained EmDash templates
-- **[ceo-personal-os](https://github.com/majesticlabs-dev/ceo-personal-os)** - operating system for CEOs
-- **[static-site-builder](https://github.com/majesticlabs-dev/static-site-builder)** - static site built with Astro, Decap CMS, and Cloudflare Pages
+
