@@ -1,7 +1,8 @@
 # Hi, I'm David Paluy
 
-Builder at **Majestic Labs**. Ruby, Rails, and AI agent tooling.
+Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
