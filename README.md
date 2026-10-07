@@ -31,8 +31,6 @@ Builder at **Majestic Labs**. Rust, Ruby, Rails, and AI agent tooling.
 - **[leadsquared](https://github.com/dpaluy/leadsquared)** - Ruby wrapper for the LeadSquared API
 - **[bai2_ruby](https://github.com/dpaluy/bai2_ruby)** - BAI2 bank statement format wrapper for Ruby
 - **[fizzy-cli](https://github.com/dpaluy/fizzy-cli)** - command-line client for Fizzy project management
-- **[DDEConsole](https://github.com/dpaluy/DDEConsole)** - C# DDE console
-- **[DotML](https://github.com/dpaluy/DotML)** - XML syntax for the Dot graph language, renders to SVG charts
 
 ## AI, LLM & Agents
 
